@@ -28,7 +28,6 @@ function sortear() {
 
 	}
 
-
 	var sorteio2 = Math.floor(Math.random() * 6 + 1);
 
 	switch (sorteio2) {
