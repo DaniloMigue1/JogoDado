@@ -6,22 +6,22 @@ function sortear() {
 
 	switch (sorteio) {
 		case 1:
-			document.getElementById("face").src = "face1.png";
+			document.getElementById("face").src = "images\face1.png";
 			break;
 		case 2:
-			document.getElementById("face").src = "face2.png";
+			document.getElementById("face").src = "images\face2.png";
 			break;
 		case 3:
-			document.getElementById("face").src = "face3.png";
+			document.getElementById("face").src = "images\face3.png";
 			break;
 		case 4:
-			document.getElementById("face").src = "face4.png";
+			document.getElementById("face").src = "images\face4.png";
 			break;
 		case 5:
-			document.getElementById("face").src = "face5.png";
+			document.getElementById("face").src = "images\face5.png";
 			break;
 		case 6:
-			document.getElementById("face").src = "face6.png";
+			document.getElementById("face").src = "images\face6.png";
 			break;
 		default:
 			break;
@@ -32,22 +32,22 @@ function sortear() {
 
 	switch (sorteio2) {
 		case 1:
-			document.getElementById("face2").src = "face1.png";
+			document.getElementById("face2").src = "images\face1.png";
 			break;
 		case 2:
-			document.getElementById("face2").src = "face2.png";
+			document.getElementById("face2").src = "images\face2.png";
 			break;
 		case 3:
-			document.getElementById("face2").src = "face3.png";
+			document.getElementById("face2").src = "images\face3.png";
 			break;
 		case 4:
-			document.getElementById("face2").src = "face4.png";
+			document.getElementById("face2").src = "images\face4.png";
 			break;
 		case 5:
-			document.getElementById("face2").src = "face5.png";
+			document.getElementById("face2").src = "images\face5.png";
 			break;
 		case 6:
-			document.getElementById("face2").src = "face6.png";
+			document.getElementById("face2").src = "images\face6.png";
 			break;
 		default:
 			break;
